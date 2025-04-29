@@ -1,0 +1,134 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with blue sky gradient -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#skyGradient)" />
+  
+  <!-- Grass ground -->
+  <rect x="0" y="500" width="800" height="100" fill="#10b981" />
+  
+  <!-- Water features -->
+  <!-- Main pool -->
+  <rect x="250" y="380" width="300" height="150" rx="20" fill="#0284c7" />
+  <rect x="250" y="380" width="300" height="150" rx="20" fill="#7dd3fc" opacity="0.4" />
+  
+  <!-- Splash patterns -->
+  <g fill="#7dd3fc" opacity="0.7">
+    <circle cx="300" cy="420" r="15" />
+    <circle cx="320" cy="440" r="10" />
+    <circle cx="340" cy="430" r="12" />
+    
+    <circle cx="400" cy="410" r="15" />
+    <circle cx="420" cy="440" r="10" />
+    <circle cx="440" cy="420" r="12" />
+    
+    <circle cx="500" cy="430" r="15" />
+    <circle cx="520" cy="410" r="10" />
+    <circle cx="480" cy="440" r="12" />
+  </g>
+  
+  <!-- Water jets -->
+  <g>
+    <path d="M 280,450 Q 280,400 310,380" fill="none" stroke="#7dd3fc" stroke-width="5" />
+    <path d="M 380,450 Q 380,380 400,350" fill="none" stroke="#7dd3fc" stroke-width="5" />
+    <path d="M 480,450 Q 480,400 450,380" fill="none" stroke="#7dd3fc" stroke-width="5" />
+    
+    <!-- Water droplets -->
+    <circle cx="310" cy="380" r="5" fill="#7dd3fc" />
+    <circle cx="400" cy="350" r="5" fill="#7dd3fc" />
+    <circle cx="450" cy="380" r="5" fill="#7dd3fc" />
+  </g>
+  
+  <!-- Water slide -->
+  <path d="M 150,300 C 200,350 250,330 250,380" fill="none" stroke="#06b6d4" stroke-width="30" />
+  <path d="M 150,300 C 200,350 250,330 250,380" fill="none" stroke="#0891b2" stroke-width="25" />
+  
+  <!-- People -->
+  <!-- Group 1 - Team building activity -->
+  <g>
+    <!-- Person 1 -->
+    <circle cx="300" cy="470" r="15" fill="#075985" />
+    <rect x="295" y="485" width="10" height="15" fill="#075985" />
+    
+    <!-- Person 2 -->
+    <circle cx="330" cy="480" r="15" fill="#0e7490" />
+    <rect x="325" y="495" width="10" height="15" fill="#0e7490" />
+    
+    <!-- Person 3 -->
+    <circle cx="360" cy="470" r="15" fill="#0c4a6e" />
+    <rect x="355" y="485" width="10" height="15" fill="#0c4a6e" />
+    
+    <!-- Person 4 -->
+    <circle cx="390" cy="480" r="15" fill="#075985" />
+    <rect x="385" y="495" width="10" height="15" fill="#075985" />
+    
+    <!-- Person 5 -->
+    <circle cx="420" cy="470" r="15" fill="#0e7490" />
+    <rect x="415" y="485" width="10" height="15" fill="#0e7490" />
+    
+    <!-- Person 6 -->
+    <circle cx="450" cy="480" r="15" fill="#0c4a6e" />
+    <rect x="445" y="495" width="10" height="15" fill="#0c4a6e" />
+    
+    <!-- Person 7 -->
+    <circle cx="480" cy="470" r="15" fill="#075985" />
+    <rect x="475" y="485" width="10" height="15" fill="#075985" />
+  </g>
+  
+  <!-- Water balloon station -->
+  <rect x="600" y="420" width="80" height="80" fill="#a5f3fc" opacity="0.7" />
+  <circle cx="610" cy="430" r="10" fill="#0284c7" />
+  <circle cx="630" cy="440" r="10" fill="#0284c7" />
+  <circle cx="650" cy="430" r="10" fill="#0284c7" />
+  <circle cx="670" cy="440" r="10" fill="#0284c7" />
+  
+  <!-- Person at water balloon station -->
+  <circle cx="640" cy="480" r="15" fill="#0c4a6e" />
+  <rect x="635" y="495" width="10" height="15" fill="#0c4a6e" />
+  
+  <!-- Water gun station -->
+  <rect x="120" y="420" width="80" height="80" fill="#a5f3fc" opacity="0.7" />
+  
+  <!-- Water guns -->
+  <g fill="#0c4a6e">
+    <rect x="130" cy="440" width="20" height="10" />
+    <rect x="150" y="443" width="10" height="4" />
+    <rect x="160" cy="440" width="20" height="10" />
+    <rect x="180" y="443" width="10" height="4" />
+  </g>
+  
+  <!-- Person at water gun station -->
+  <circle cx="160" cy="480" r="15" fill="#075985" />
+  <rect x="155" y="495" width="10" height="15" fill="#075985" />
+  
+  <!-- Sun -->
+  <circle cx="100" cy="100" r="40" fill="#fcd34d" />
+  <circle cx="100" cy="100" r="30" fill="#fef08a" />
+  
+  <!-- Clouds -->
+  <g fill="#f1f5f9" opacity="0.8">
+    <ellipse cx="200" cy="120" rx="40" ry="20" />
+    <ellipse cx="250" cy="110" rx="50" ry="25" />
+    <ellipse cx="300" cy="120" rx="40" ry="20" />
+    
+    <ellipse cx="500" cy="150" rx="40" ry="20" />
+    <ellipse cx="550" cy="140" rx="50" ry="25" />
+    <ellipse cx="600" cy="150" rx="40" ry="20" />
+  </g>
+  
+  <!-- Title -->
+  <rect x="200" y="50" width="400" height="60" rx="10" fill="rgba(255, 255, 255, 0.8)" />
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0e7490" font-weight="bold">
+    Corporate Water Games
+  </text>
+  
+  <!-- Caption -->
+  <rect x="250" y="530" width="300" height="40" rx="5" fill="rgba(255, 255, 255, 0.8)" />
+  <text x="400" y="555" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0e7490">
+    Emerald Owl Productions
+  </text>
+</svg> 

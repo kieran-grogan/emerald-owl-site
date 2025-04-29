@@ -1,0 +1,70 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#0ea5e9" />
+  
+  <!-- Floor/ground -->
+  <rect x="0" y="500" width="800" height="100" fill="#0284c7" />
+  
+  <!-- Foam bubbles - large group -->
+  <g fill="white" opacity="0.9">
+    <circle cx="400" cy="350" r="200" />
+    <circle cx="200" cy="400" r="150" />
+    <circle cx="600" cy="400" r="170" />
+    <circle cx="300" cy="250" r="120" />
+    <circle cx="500" cy="300" r="140" />
+  </g>
+  
+  <!-- Foam bubbles - medium -->
+  <g fill="white" opacity="0.7">
+    <circle cx="150" cy="350" r="70" />
+    <circle cx="250" cy="320" r="50" />
+    <circle cx="350" cy="280" r="60" />
+    <circle cx="450" cy="250" r="40" />
+    <circle cx="550" cy="300" r="55" />
+    <circle cx="650" cy="350" r="65" />
+  </g>
+  
+  <!-- Foam bubbles - small -->
+  <g fill="white" opacity="0.5">
+    <circle cx="100" cy="380" r="20" />
+    <circle cx="150" cy="420" r="15" />
+    <circle cx="200" cy="350" r="25" />
+    <circle cx="250" cy="400" r="18" />
+    <circle cx="300" cy="370" r="22" />
+    <circle cx="350" cy="420" r="17" />
+    <circle cx="400" cy="380" r="23" />
+    <circle cx="450" cy="350" r="19" />
+    <circle cx="500" cy="400" r="21" />
+    <circle cx="550" cy="370" r="16" />
+    <circle cx="600" cy="350" r="24" />
+    <circle cx="650" cy="400" r="14" />
+    <circle cx="700" cy="380" r="20" />
+  </g>
+  
+  <!-- People silhouettes -->
+  <g fill="#0f172a">
+    <circle cx="200" cy="480" r="30" />
+    <rect x="185" y="510" width="30" height="60" />
+    
+    <circle cx="350" cy="490" r="25" />
+    <rect x="337" y="515" width="25" height="50" />
+    
+    <circle cx="500" cy="485" r="28" />
+    <rect x="486" y="513" width="28" height="55" />
+    
+    <circle cx="650" cy="490" r="25" />
+    <rect x="637" y="515" width="25" height="50" />
+  </g>
+  
+  <!-- Title -->
+  <rect x="200" y="50" width="400" height="60" rx="10" fill="rgba(255, 255, 255, 0.8)" />
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#0284c7" font-weight="bold">
+    Summer Foam Festival
+  </text>
+  
+  <!-- Caption -->
+  <rect x="250" y="530" width="300" height="40" rx="5" fill="rgba(255, 255, 255, 0.8)" />
+  <text x="400" y="555" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0284c7">
+    Emerald Owl Productions
+  </text>
+</svg> 

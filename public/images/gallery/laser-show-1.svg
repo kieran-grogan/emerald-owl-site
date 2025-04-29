@@ -1,0 +1,42 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#0f172a" />
+  
+  <!-- Stage silhouette -->
+  <rect x="50" y="400" width="700" height="150" fill="#1e293b" />
+  
+  <!-- Crowd silhouette -->
+  <path d="M 50,450 Q 400,500 750,450 V 550 H 50 Z" fill="#334155" />
+  
+  <!-- Laser beams -->
+  <g>
+    <!-- Red laser -->
+    <path d="M 150,400 L 350,100" stroke="#ff3333" stroke-width="20" opacity="0.6" filter="blur(5px)" />
+    <path d="M 150,400 L 350,100" stroke="#ff6666" stroke-width="3" />
+    
+    <!-- Green laser -->
+    <path d="M 350,400 L 450,50" stroke="#33ff33" stroke-width="20" opacity="0.6" filter="blur(5px)" />
+    <path d="M 350,400 L 450,50" stroke="#66ff66" stroke-width="3" />
+    
+    <!-- Blue laser -->
+    <path d="M 550,400 L 500,120" stroke="#3333ff" stroke-width="20" opacity="0.6" filter="blur(5px)" />
+    <path d="M 550,400 L 500,120" stroke="#6666ff" stroke-width="3" />
+    
+    <!-- Purple laser -->
+    <path d="M 650,400 L 600,80" stroke="#ff33ff" stroke-width="20" opacity="0.6" filter="blur(5px)" />
+    <path d="M 650,400 L 600,80" stroke="#ff66ff" stroke-width="3" />
+  </g>
+  
+  <!-- Spotlights -->
+  <circle cx="250" cy="250" r="100" fill="#ffffff" opacity="0.1" />
+  <circle cx="550" cy="230" r="120" fill="#ffffff" opacity="0.1" />
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="white" font-weight="bold">Corporate Event Laser Show</text>
+  
+  <!-- Caption -->
+  <rect x="200" y="500" width="400" height="40" rx="5" fill="rgba(15, 23, 42, 0.7)" />
+  <text x="400" y="525" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="white">
+    Emerald Owl Productions
+  </text>
+</svg> 

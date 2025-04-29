@@ -1,0 +1,59 @@
+<svg width="1200" height="675" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bgGradient)" />
+  
+  <!-- Grid pattern -->
+  <pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse">
+    <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#475569" stroke-width="1" opacity="0.3" />
+  </pattern>
+  <rect width="1200" height="675" fill="url(#grid)" />
+  
+  <!-- Laser beams -->
+  <g>
+    <!-- Red laser -->
+    <path d="M 600 500 L 1000 100" stroke="#ff3333" stroke-width="20" opacity="0.6" filter="blur(8px)" />
+    <path d="M 600 500 L 1000 100" stroke="#ff6666" stroke-width="4" />
+    
+    <!-- Green laser -->
+    <path d="M 600 500 L 800 50" stroke="#33ff33" stroke-width="20" opacity="0.6" filter="blur(8px)" />
+    <path d="M 600 500 L 800 50" stroke="#66ff66" stroke-width="4" />
+    
+    <!-- Blue laser -->
+    <path d="M 600 500 L 600 50" stroke="#3333ff" stroke-width="20" opacity="0.6" filter="blur(8px)" />
+    <path d="M 600 500 L 600 50" stroke="#6666ff" stroke-width="4" />
+    
+    <!-- Purple laser -->
+    <path d="M 600 500 L 400 50" stroke="#ff33ff" stroke-width="20" opacity="0.6" filter="blur(8px)" />
+    <path d="M 600 500 L 400 50" stroke="#ff66ff" stroke-width="4" />
+    
+    <!-- Yellow laser -->
+    <path d="M 600 500 L 200 100" stroke="#ffff33" stroke-width="20" opacity="0.6" filter="blur(8px)" />
+    <path d="M 600 500 L 200 100" stroke="#ffff66" stroke-width="4" />
+  </g>
+  
+  <!-- Laser source -->
+  <circle cx="600" cy="500" r="50" fill="#1e293b" stroke="#64748b" stroke-width="4" />
+  <circle cx="600" cy="500" r="25" fill="#e2e8f0" />
+  
+  <!-- Decorative elements -->
+  <circle cx="1000" cy="100" r="15" fill="#ff6666" />
+  <circle cx="800" cy="50" r="15" fill="#66ff66" />
+  <circle cx="600" cy="50" r="15" fill="#6666ff" />
+  <circle cx="400" cy="50" r="15" fill="#ff66ff" />
+  <circle cx="200" cy="100" r="15" fill="#ffff66" />
+  
+  <!-- Title and caption -->
+  <rect x="100" y="575" width="1000" height="80" rx="10" fill="rgba(15, 23, 42, 0.8)" />
+  <text x="600" y="615" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    Laser Technology Advancements
+  </text>
+  <text x="600" y="645" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle">
+    Multi-color high-precision laser systems for event productions
+  </text>
+</svg> 

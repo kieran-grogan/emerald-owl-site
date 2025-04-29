@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Emerald Owl Productions Placeholder</title>
+    <g id="Placeholder-Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Background Rectangle -->
+        <rect id="Background" fill="#1E3A34" x="0" y="0" width="800" height="600"></rect>
+        <rect id="Background-Pattern" fill="#23453D" opacity="0.4" x="0" y="0" width="800" height="600"></rect>
+        
+        <!-- Main Icon: Mountains and Sun -->
+        <g id="Mountain-Icon" transform="translate(250.000000, 150.000000)">
+            <!-- Sun Circle -->
+            <circle id="Sun" fill="#4ADE80" cx="150" cy="100" r="60"></circle>
+            
+            <!-- Mountains -->
+            <polygon id="Mountain-Back" fill="#10221D" points="0 300 100 100 200 220 300 120 400 300"></polygon>
+            <polygon id="Mountain-Front" fill="#185C4E" points="50 300 150 130 250 300"></polygon>
+        </g>
+        
+        <!-- Text -->
+        <text id="Company-Name" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle" x="400" y="450">
+            Emerald Owl Productions
+        </text>
+        <text id="Placeholder-Text" font-family="Arial, sans-serif" font-size="22" font-weight="normal" fill="#4ADE80" text-anchor="middle" x="400" y="490">
+            Image Placeholder
+        </text>
+    </g>
+</svg> 

@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Always refer to the [project-directory.md](mdc:project-directory.md) and [development-plan.md](mdc:development-plan.md) for any development actions. Keep understanding aligned with these documents at all times. Update the Directory Map immediately whenever a file or structure change occurs

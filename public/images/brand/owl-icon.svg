@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <path d="M24 4C14 4 6 12 6 22C6 32 14 40 24 40C34 40 42 32 42 22C42 12 34 4 24 4Z" fill="#16a34a"/>
+  <!-- Eyes -->
+  <circle cx="18" cy="20" r="6" fill="#f59e0b"/>
+  <circle cx="30" cy="20" r="6" fill="#f59e0b"/>
+  <circle cx="18" cy="20" r="3" fill="#000000"/>
+  <circle cx="30" cy="20" r="3" fill="#000000"/>
+  <!-- Beak -->
+  <path d="M21 24L24 28L27 24" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+</svg> 

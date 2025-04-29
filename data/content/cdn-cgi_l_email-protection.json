@@ -1,0 +1,36 @@
+{
+  "url": "https://emeraldowlproductions.com/cdn-cgi/l/email-protection",
+  "status": 200,
+  "headers": {
+    "Date": "Sun, 27 Apr 2025 15:24:52 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "X-Frame-Options": "DENY",
+    "Server": "cloudflare",
+    "CF-RAY": "936f544e3ba0c022-ATL",
+    "X-Content-Type-Options": "nosniff",
+    "Content-Encoding": "gzip"
+  },
+  "html": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Email Protection | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />\n<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->\n<style>body{margin:0;padding:0}</style>\n\n\n<!--[if gte IE 10]><!-->\n<script>\n  if (!navigator.cookieEnabled) {\n    window.addEventListener('DOMContentLoaded', function () {\n      var cookieEl = document.getElementById('cookie-alert');\n      cookieEl.style.display = 'block';\n    })\n  }\n</script>\n<!--<![endif]-->\n\n\n</head>\n<body>\n  <div id=\"cf-wrapper\">\n    <div class=\"cf-alert cf-alert-error cf-cookie-error\" id=\"cookie-alert\" data-translate=\"enable_cookies\">Please enable cookies.</div>\n    <div id=\"cf-error-details\" class=\"cf-error-details-wrapper\">\n      <div class=\"cf-wrapper cf-header cf-error-overview\">\n        <h1 data-translate=\"block_headline\">Email Protection</h1>\n        <h2 class=\"cf-subheadline\"><span data-translate=\"unable_to_access\">You are unable to access this email address</span> emeraldowlproductions.com</h2>\n      </div><!-- /.header -->\n\n      <div class=\"cf-section cf-wrapper\">\n        <div class=\"cf-columns two\">\n          <div class=\"cf-column\">\n            <p>The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots. <strong>You must enable Javascript in your browser in order to decode the e-mail address</strong>.</p>\n            <p>If you have a website and are interested in protecting it in a similar way, you can <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/sign-up?utm_source=email_protection\">sign up for Cloudflare</a>.</p>\n          </div>\n\n          <div class=\"cf-column\">\n            <div class=\"grid_4\">\n              <div class=\"rail\">\n                  <div class=\"panel\">\n                      <ul class=\"nobullets\">\n                        <li><a rel=\"noopener noreferrer\" class=\"modal-link-faq\" href=\"https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-\">How does Cloudflare protect email addresses on website from spammers?</a></li>\n                        <li><a rel=\"noopener noreferrer\" class=\"modal-link-faq\" href=\"https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started\">Can I sign up for Cloudflare?</a></li>\n                    </ul>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div><!-- /.section -->\n\n      <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n  <p class=\"text-13\">\n    <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">936f544e3ba0c022</strong></span>\n    <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n    <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n      Your IP:\n      <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n      <span class=\"hidden\" id=\"cf-footer-ip\">34.148.21.212</span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n    </span>\n    <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n    \n  </p>\n  <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n    </div><!-- /#cf-error-details -->\n  </div><!-- /#cf-wrapper -->\n\n  <script>\n  window._cf_translation = {};\n  \n  \n</script>\n\n</body>\n</html>\n",
+  "text": "Email Protection | Cloudflare Please enable cookies. Email Protection You are unable to access this email address emeraldowlproductions.com The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots. You must enable Javascript in your browser in order to decode the e-mail address . If you have a website and are interested in protecting it in a similar way, you can sign up for Cloudflare . How does Cloudflare protect email addresses on website from spammers? Can I sign up for Cloudflare? Cloudflare Ray ID: 936f544e3ba0c022 \u2022 Your IP: Click to reveal 34.148.21.212 \u2022 Performance & security by Cloudflare",
+  "title": "Email Protection | Cloudflare",
+  "binary_data": null,
+  "json_data": null,
+  "links": [],
+  "resources": [
+    {
+      "url": "https://emeraldowlproductions.com/cdn-cgi/styles/cf.errors.css",
+      "resource_type": "stylesheet",
+      "source_url": "https://emeraldowlproductions.com/cdn-cgi/l/email-protection",
+      "attributes": {}
+    }
+  ],
+  "metadata": {
+    "robots": "noindex, nofollow",
+    "viewport": "width=device-width,initial-scale=1"
+  },
+  "depth": 0,
+  "crawl_time": 0.0,
+  "content_type": "text/html; charset=UTF-8"
+}
